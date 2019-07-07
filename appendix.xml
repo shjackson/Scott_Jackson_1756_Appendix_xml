@@ -51,7 +51,7 @@ Possum T-shirt</Description>
 </Product>
 <Product>
 <Name>Awesome Possum T-shirt Blue</Name>
-<ProductUniqueID>APTS-02 Blue</ProductUniqueID>
+<ProductUniqueID>APTS-02_Blue</ProductUniqueID>
 <ProductUrl>http://www.myawesomestore.com/products/APTS?color=02</ProductUrl>
 <ImageUrl>http://www.myawesomestore.com/images/APTS-black.jpg</ImageUrl>
 <Description>This is an example description of my Awesome
