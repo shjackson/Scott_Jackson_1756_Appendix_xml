@@ -68,7 +68,7 @@ Possum T-shirt</Description>
 <ParentID>APTS</ParentID>
 </Product>
 <Product>
-<Name>Awesome Possum T-shirt & Shorts Red</Name>
+<Name>Awesome Possum T-shirt &amp; Shorts Red</Name>
 <ProductUniqueID>APTS-03</ProductUniqueID>
 <ProductUrl>http://www.myawesomestore.com/products/APTS?color=03</ProductUrl>
 <ImageUrl>http://www.myawesomestore.com/images/APTS-red.jpg</ImageUrl>
