@@ -9,8 +9,7 @@
 <Category>
 <CategoryUniqueID>cat1002</CategoryUniqueID>
 <Name>T-shirts</Name>
-<CategoryUrl>http://www.myawesomestore.com/categories/mens/tshirts</Cate
-goryUrl>
+<CategoryUrl>http://www.myawesomestore.com/categories/mens/tshirts</CategoryUrl>
 <CategoryParentID>cat1001</CategoryParentID>
 </Category>
 </Categories>
@@ -19,8 +18,7 @@ goryUrl>
 <Name>Awesome Possum T-shirt</Name>
 <ProductUniqueID>APTS</ProductUniqueID>
 <ProductUrl>http://www.myawesomestore.com/products/APTS</ProductUrl>
-<ImageUrl>http://www.myawesomestore.com/images/APTS-mainstockimage.jpg</
-ImageUrl>
+<ImageUrl>http://www.myawesomestore.com/images/APTS-mainstockimage.jpg</ImageUrl>
 <Description>This is an example description of my Awesome
 Possum T-shirt</Description>
 <CategoryID>cat1002</CategoryID>
@@ -35,8 +33,7 @@ Possum T-shirt</Description>
 <Product>
 <Name>Awesome Possum T-shirt Black</Name>
 <ProductUniqueID>APTS-01</ProductUniqueID>
-<ProductUrl>http://www.myawesomestore.com/products/APTS?color=01</Produc
-tUrl>
+<ProductUrl>http://www.myawesomestore.com/products/APTS?color=01</ProductUrl>
 <ImageUrl>http://www.myawesomestore.com/images/APTS-black.jpg</ImageUrl>
 <Description>This is an example description of my Awesome
 Possum T-shirt</Description>
@@ -55,8 +52,7 @@ Possum T-shirt</Description>
 <Product>
 <Name>Awesome Possum T-shirt Blue</Name>
 <ProductUniqueID>APTS-02 Blue</ProductUniqueID>
-<ProductUrl>http://www.myawesomestore.com/products/APTS?color=02</Produc
-tUrl>
+<ProductUrl>http://www.myawesomestore.com/products/APTS?color=02</ProductUrl>
 <ImageUrl>http://www.myawesomestore.com/images/APTS-black.jpg</ImageUrl>
 <Description>This is an example description of my Awesome
 Possum T-shirt</Description>
@@ -74,8 +70,7 @@ Possum T-shirt</Description>
 <Product>
 <Name>Awesome Possum T-shirt & Shorts Red</Name>
 <ProductUniqueID>APTS-03</ProductUniqueID>
-<ProductUrl>http://www.myawesomestore.com/products/APTS?color=03</Produc
-tUrl>
+<ProductUrl>http://www.myawesomestore.com/products/APTS?color=03</ProductUrl>
 <ImageUrl>http://www.myawesomestore.com/images/APTS-red.jpg</ImageUrl>
 <Description>This is an example description of my Awesome
 Possum T-shirt and Shorts</Description>
