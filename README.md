@@ -9,7 +9,7 @@ Between the error messages provided using this utility, as well as visual inspec
 Here are the basic error types I discovered and corrected:
 
 1. Broken closing tags (i.e. line breaks introduced within a closing tag)
-2. "&" needs to be coded as "&amp;" in client's text values
+2. "&" needs to be coded as "&amp;amp;" in client's text values
 3. "UniqueIdType" text values cannot have whitespaces
 
 In the commit history for "appendix.xml", I've included more detail about my process in investigating/correcting these issues and communicating them to the client: 
